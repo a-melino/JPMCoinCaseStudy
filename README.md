@@ -2,7 +2,9 @@
 
 # JPMCoin Case Study
 ## A case study for JPMCoin
----
+
+***CONTRIBUTORS***: *Alex Melino & Tibor Sos*
+
 **What is the background of your company? What do they do? Who are their competitors?**
 
 #### JPMorgan Chase & Co. is an American multinational financial services company headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States and the world's largest bank by market capitalization (as of 2023). As the largest of the Big Four banks, the firm is considered systemically important by the Financial Stability Board. 
@@ -31,4 +33,3 @@
 
 #### One of the next challenges for JP Morgan and their fintech activities is demonstrating and selling the JPMCoin (and other fintech initiatives) value to the unbanked or the underbanked community of the world. Take APAC – home to 60% of the world's population – about 4.6 billion people. There is a huge contingent which is unbanked – and there is also a significant contingent of consumers and small businesses alike which is underbanked. JP Morgan will have an important role to play in financial inclusion. Whether that role includes technology advanced by fintechs or new payments rails, they can create more equitable, diverse financial access for billions of people.
 ---
-***CONTRIBUTORS***: *Alex Melino & Tibor Sos*
